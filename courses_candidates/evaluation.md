@@ -29,52 +29,52 @@ Scoring is reproducible: the script embeds every manual score.
 
 | # | Score | Course | Host | O | C | Cost | Fit | Prov | Qual | Rec |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 95.0 | The Science and Implications of Generative AI (open archive) | Harvard Kennedy School | 3/3 | 6/6 | 14 | 15 | 10 | 3 | 3 |
-| 2 | 94.0 | AI Fundamentals for Public Servants | Stanford Online + Stanford HAI | 3/3 | 6/6 | 14 | 15 | 8 | 4 | 3 |
-| 3 | 94.0 | Responsible AI for Public Sector Legal Professionals | InnovateUS | 3/3 | 6/6 | 15 | 13 | 9 | 3 | 4 |
-| 4 | 93.7 | Responsible AI for Public Organizations | InnovateUS | 3/3 | 5/6 | 15 | 15 | 9 | 4 | 4 |
-| 5 | 93.7 | Responsible AI for Public Professionals | InnovateUS | 3/3 | 5/6 | 15 | 15 | 9 | 5 | 3 |
-| 6 | 92.7 | AI and Digital Transformation in Government | Oxford Saïd + UNESCO | 3/3 | 5/6 | 15 | 15 | 7 | 5 | 4 |
-| 7 | 91.0 | Introduction to Artificial Intelligence (UIUC) | UIUC (Gies) | 3/3 | 6/6 | 12 | 12 | 9 | 4 | 4 |
-| 8 | 89.7 | AI Foundations for Business Professionals (specialization) | Oxford Saïd | 3/3 | 5/6 | 12 | 12 | 10 | 5 | 4 |
-| 9 | 88.3 | Free Online Certificate in AI and Career Empowerment | UMD Smith | 3/3 | 4/6 | 15 | 13 | 9 | 4 | 4 |
-| 10 | 88.0 | AI Literacy for Everyone (specialization) | University of Michigan | 3/3 | 6/6 | 12 | 12 | 7 | 4 | 3 |
-| 11 | 88.0 | AI for Work and Life (UNF) | University of North Florida | 3/3 | 6/6 | 12 | 12 | 8 | 2 | 4 |
-| 12 | 86.7 | Artificial Intelligence for Everyone | Universiti Malaya | 3/3 | 5/6 | 14 | 12 | 8 | 2 | 4 |
-| 13 | 85.3 | AI Governance | Oxford Saïd | 3/3 | 4/6 | 12 | 12 | 10 | 4 | 4 |
-| 14 | 83.3 | Generative AI Cybersecurity & Privacy for Leaders | Vanderbilt | 3/3 | 4/6 | 12 | 11 | 9 | 4 | 4 |
-| 15 | 81.7 | AI Regulation: Navigating the EU AI Act | TU Delft | 3/3 | 5/6 | 12 | 8 | 8 | 2 | 5 |
-| 16 | 81.7 | AI in National Security (SCSP) | Special Competitive Studies Project | 2/3 | 5/6 | 14 | 15 | 8 | 4 | 4 |
-| 17 | 78.7 | AI in Education: Leveraging ChatGPT for Teaching | Wharton | 3/3 | 5/6 | 6 | 9 | 10 | 4 | 3 |
-| 18 | 78.7 | Unleash Your Potential: AI Fundamentals | University of Bristol | 2/3 | 5/6 | 14 | 12 | 9 | 2 | 5 |
-| 19 | 77.3 | Introduction to AI Literacy | Acadia University | 2/3 | 4/6 | 15 | 12 | 8 | 4 | 5 |
-| 20 | 77.0 | AI Ethics, Inclusion & Society | University of Glasgow | 2/3 | 6/6 | 14 | 10 | 7 | 2 | 4 |
-| 21 | 76.7 | Foundations of Generative AI | Georgia Tech | 2/3 | 5/6 | 12 | 12 | 9 | 3 | 4 |
-| 22 | 75.0 | How to AI (Almost) Anything (MAS.S60) | MIT Media Arts and Sciences | 2/3 | 6/6 | 14 | 6 | 9 | 2 | 4 |
-| 23 | 74.3 | AI Literacy for Life & Work | Grand Valley State | 2/3 | 4/6 | 14 | 12 | 8 | 2 | 5 |
-| 24 | 74.0 | What Can AI Do for Marketing? | Emory (Goizueta) | 3/3 | 3/6 | 12 | 7 | 9 | 3 | 3 |
-| 25 | 73.3 | AI Fundamentals | University of Leeds | 2/3 | 4/6 | 14 | 12 | 8 | 3 | 3 |
-| 26 | 71.7 | Generative AI in Education | University of Glasgow | 2/3 | 5/6 | 14 | 7 | 8 | 3 | 3 |
-| 27 | 71.3 | Artificial Intelligence in National Security | King's College London | 2/3 | 4/6 | 12 | 10 | 9 | 3 | 4 |
-| 28 | 70.7 | The AI Awakening | Stanford School of Engineering | 2/3 | 5/6 | 6 | 11 | 10 | 4 | 3 |
-| 29 | 70.3 | AI Safety, Ethics, and Society | Center for AI Safety | 2/3 | 4/6 | 12 | 10 | 9 | 3 | 3 |
-| 30 | 70.3 | Introduction to Generative AI (Duke) | Duke University | 2/3 | 4/6 | 12 | 10 | 8 | 4 | 3 |
-| 31 | 70.0 | AI, Justice and Rule of Law | UNESCO + Oxford | 2/3 | 3/6 | 15 | 9 | 9 | 2 | 5 |
-| 32 | 69.3 | A Human Rights-Based Approach to AI | Global Campus of Human Rights | 2/3 | 4/6 | 12 | 10 | 8 | 2 | 4 |
-| 33 | 69.3 | AI Policy and Governance | Purdue University | 2/3 | 4/6 | 9 | 13 | 9 | 2 | 3 |
-| 34 | 69.0 | Agentic AI and AI Agents: A Primer for Leaders | Vanderbilt | 2/3 | 3/6 | 12 | 9 | 9 | 5 | 4 |
-| 35 | 69.0 | Responsible AI Foundations (course series) | All Tech Is Human | 2/3 | 3/6 | 14 | 10 | 8 | 3 | 4 |
-| 36 | 68.7 | GenAI 101 | Indiana University (Kelley) | 2/3 | 2/6 | 15 | 12 | 8 | 3 | 4 |
-| 37 | 68.0 | The Future of AI | BlueDot Impact | 2/3 | 3/6 | 14 | 10 | 7 | 3 | 4 |
-| 38 | 67.7 | AI Whisperer | University of South Florida | 2/3 | 2/6 | 14 | 12 | 8 | 3 | 4 |
-| 39 | 67.3 | Demystifying AI, Understanding Risks... | Purdue University | 2/3 | 4/6 | 9 | 12 | 8 | 2 | 3 |
-| 40 | 67.0 | It's Not Just Business | The Alan Turing Institute | 2/3 | 3/6 | 14 | 10 | 8 | 2 | 3 |
-| 41 | 67.0 | Trustworthy AI: Managing Bias, Ethics, Accountability | Johns Hopkins | 2/3 | 3/6 | 12 | 10 | 8 | 3 | 4 |
-| 42 | 66.0 | Generative AI: Governance, Policy, Emerging Regulation | University of Michigan | 2/3 | 3/6 | 12 | 9 | 9 | 3 | 3 |
-| 43 | 64.3 | Current Issues in Ethics and AI | CU Boulder | 2/3 | 4/6 | 6 | 10 | 9 | 2 | 4 |
-| 44 | 64.0 | AGI Strategy | BlueDot Impact | 2/3 | 3/6 | 12 | 9 | 7 | 2 | 4 |
-| 45 | 61.7 | Introduction to Generative AI (BUSAI X001) | Ohio State | 2/3 | 2/6 | 10 | 11 | 8 | 2 | 4 |
-| 46 | 56.0 | Foundation Models and Generative AI (6.S087) | MIT OCW | 1/3 | 3/6 | 14 | 10 | 7 | 2 | 3 |
+| 1 | 95.0 | [The Science and Implications of Generative AI (open archive)](https://generative-ai-course.hks.harvard.edu/spring-2024) | Harvard Kennedy School | 3/3 | 6/6 | 14 | 15 | 10 | 3 | 3 |
+| 2 | 94.0 | [AI Fundamentals for Public Servants](https://apolitical.co/microcourses/en/ai-fundamentals-for-public-servants-opportunities-risks-and-strategies/) | Stanford Online + Stanford HAI | 3/3 | 6/6 | 14 | 15 | 8 | 4 | 3 |
+| 3 | 94.0 | [Responsible AI for Public Sector Legal Professionals](https://innovate-us.org/course/responsible-ai-for-public-sector-legal-professionals/) | InnovateUS | 3/3 | 6/6 | 15 | 13 | 9 | 3 | 4 |
+| 4 | 93.7 | [Responsible AI for Public Organizations](https://innovate-us.org/course/responsible-ai-for-public-organizations/) | InnovateUS | 3/3 | 5/6 | 15 | 15 | 9 | 4 | 4 |
+| 5 | 93.7 | [Responsible AI for Public Professionals](https://innovate-us.org/course/responsible-ai-for-public-professionals/) | InnovateUS | 3/3 | 5/6 | 15 | 15 | 9 | 5 | 3 |
+| 6 | 92.7 | [AI and Digital Transformation in Government](https://www.sbs.ox.ac.uk/programmes/executive-education/online-learning/ai-and-digital-transformation-government) | Oxford Saïd + UNESCO | 3/3 | 5/6 | 15 | 15 | 7 | 5 | 4 |
+| 7 | 91.0 | [Introduction to Artificial Intelligence (UIUC)](https://www.coursera.org/learn/intro-to-artificial-intelligence) | UIUC (Gies) | 3/3 | 6/6 | 12 | 12 | 9 | 4 | 4 |
+| 8 | 89.7 | [AI Foundations for Business Professionals (specialization)](https://www.coursera.org/specializations/ai-foundations-business-professionals) | Oxford Saïd | 3/3 | 5/6 | 12 | 12 | 10 | 5 | 4 |
+| 9 | 88.3 | [Free Online Certificate in AI and Career Empowerment](https://www.rhsmith.umd.edu/programs/executive-education/learning-opportunities-individuals/free-online-certificate-artificial-intelligence-and-career-empowerment) | UMD Smith | 3/3 | 4/6 | 15 | 13 | 9 | 4 | 4 |
+| 10 | 88.0 | [AI Literacy for Everyone (specialization)](https://www.coursera.org/specializations/ai-literacy-for-everyone) | University of Michigan | 3/3 | 6/6 | 12 | 12 | 7 | 4 | 3 |
+| 11 | 88.0 | [AI for Work and Life (UNF)](https://learn.getcertificate.online/courses/course-v1:UNF+AI101+2025_S/about) | University of North Florida | 3/3 | 6/6 | 12 | 12 | 8 | 2 | 4 |
+| 12 | 86.7 | [Artificial Intelligence for Everyone](https://www.futurelearn.com/courses/artificial-intelligence-for-everyone) | Universiti Malaya | 3/3 | 5/6 | 14 | 12 | 8 | 2 | 4 |
+| 13 | 85.3 | [AI Governance](https://www.coursera.org/learn/ai-governance) | Oxford Saïd | 3/3 | 4/6 | 12 | 12 | 10 | 4 | 4 |
+| 14 | 83.3 | [Generative AI Cybersecurity & Privacy for Leaders](https://www.coursera.org/learn/generative-ai-security-privacy) | Vanderbilt | 3/3 | 4/6 | 12 | 11 | 9 | 4 | 4 |
+| 15 | 81.7 | [AI Regulation: Navigating the EU AI Act](https://learningforlife.tudelft.nl/ai-regulation-navigating-the-eu-ai-act/) | TU Delft | 3/3 | 5/6 | 12 | 8 | 8 | 2 | 5 |
+| 16 | 81.7 | [AI in National Security (SCSP)](https://www.coursera.org/learn/ai-national-security) | Special Competitive Studies Project | 2/3 | 5/6 | 14 | 15 | 8 | 4 | 4 |
+| 17 | 78.7 | [AI in Education: Leveraging ChatGPT for Teaching](https://www.coursera.org/learn/ai-in-education-leveraging-chatgpt-for-teaching) | Wharton | 3/3 | 5/6 | 6 | 9 | 10 | 4 | 3 |
+| 18 | 78.7 | [Unleash Your Potential: AI Fundamentals](https://www.futurelearn.com/courses/unleash-your-potential-ai-fundamentals) | University of Bristol | 2/3 | 5/6 | 14 | 12 | 9 | 2 | 5 |
+| 19 | 77.3 | [Introduction to AI Literacy](https://explore.acadiau.ca/product?catalog=AI-Literacy) | Acadia University | 2/3 | 4/6 | 15 | 12 | 8 | 4 | 5 |
+| 20 | 77.0 | [AI Ethics, Inclusion & Society](https://www.futurelearn.com/courses/ai-ethics-inclusion-and-society) | University of Glasgow | 2/3 | 6/6 | 14 | 10 | 7 | 2 | 4 |
+| 21 | 76.7 | [Foundations of Generative AI](https://www.edx.org/learn/artificial-intelligence/the-georgia-institute-of-technology-introduction-to-genai) | Georgia Tech | 2/3 | 5/6 | 12 | 12 | 9 | 3 | 4 |
+| 22 | 75.0 | [How to AI (Almost) Anything (MAS.S60)](https://ocw.mit.edu/courses/mas-s60-how-to-ai-almost-anything-spring-2025/) | MIT Media Arts and Sciences | 2/3 | 6/6 | 14 | 6 | 9 | 2 | 4 |
+| 23 | 74.3 | [AI Literacy for Life & Work](https://www.gvsu.edu/computing/ai-community-coursecertificate-258) | Grand Valley State | 2/3 | 4/6 | 14 | 12 | 8 | 2 | 5 |
+| 24 | 74.0 | [What Can AI Do for Marketing?](https://www.coursera.org/learn/whatcanaidoformarketing) | Emory (Goizueta) | 3/3 | 3/6 | 12 | 7 | 9 | 3 | 3 |
+| 25 | 73.3 | [AI Fundamentals](https://www.futurelearn.com/courses/how-to-get-into-ai) | University of Leeds | 2/3 | 4/6 | 14 | 12 | 8 | 3 | 3 |
+| 26 | 71.7 | [Generative AI in Education](https://www.coursera.org/learn/generative-ai-in-education) | University of Glasgow | 2/3 | 5/6 | 14 | 7 | 8 | 3 | 3 |
+| 27 | 71.3 | [Artificial Intelligence in National Security](https://www.edx.org/learn/social-sciences/kings-college-london-artificial-intelligence-in-national-security) | King's College London | 2/3 | 4/6 | 12 | 10 | 9 | 3 | 4 |
+| 28 | 70.7 | [The AI Awakening](https://www.coursera.org/learn/ai-awakening) | Stanford School of Engineering | 2/3 | 5/6 | 6 | 11 | 10 | 4 | 3 |
+| 29 | 70.3 | [AI Safety, Ethics, and Society](https://www.aisafetybook.com/virtual-course) | Center for AI Safety | 2/3 | 4/6 | 12 | 10 | 9 | 3 | 3 |
+| 30 | 70.3 | [Introduction to Generative AI (Duke)](https://www.coursera.org/learn/intro-gen-ai) | Duke University | 2/3 | 4/6 | 12 | 10 | 8 | 4 | 3 |
+| 31 | 70.0 | [AI, Justice and Rule of Law](https://secure.sbs.ox.ac.uk/corporate/landingPage.do?method=load&corporateGroupId=7948447) | UNESCO + Oxford | 2/3 | 3/6 | 15 | 9 | 9 | 2 | 5 |
+| 32 | 69.3 | [A Human Rights-Based Approach to AI](https://elearning.gchumanrights.org/courses/course-v1:gchumanrights+HRBAtoAI+2025/about) | Global Campus of Human Rights | 2/3 | 4/6 | 12 | 10 | 8 | 2 | 4 |
+| 33 | 69.3 | [AI Policy and Governance](https://www.purdue.edu/online/artificial-intelligence-micro-credentials/) | Purdue University | 2/3 | 4/6 | 9 | 13 | 9 | 2 | 3 |
+| 34 | 69.0 | [Agentic AI and AI Agents: A Primer for Leaders](https://www.coursera.org/learn/agentic-ai) | Vanderbilt | 2/3 | 3/6 | 12 | 9 | 9 | 5 | 4 |
+| 35 | 69.0 | [Responsible AI Foundations (course series)](https://alltechishuman.org/rai-courses) | All Tech Is Human | 2/3 | 3/6 | 14 | 10 | 8 | 3 | 4 |
+| 36 | 68.7 | [GenAI 101](https://kelley.iu.edu/learnAI) | Indiana University (Kelley) | 2/3 | 2/6 | 15 | 12 | 8 | 3 | 4 |
+| 37 | 68.0 | [The Future of AI](https://bluedot.org/courses/future-of-ai) | BlueDot Impact | 2/3 | 3/6 | 14 | 10 | 7 | 3 | 4 |
+| 38 | 67.7 | [AI Whisperer](https://www.usf.edu/innovative-education/usf-microcredentials/a-microcourse-in-crafting-prompts.aspx) | University of South Florida | 2/3 | 2/6 | 14 | 12 | 8 | 3 | 4 |
+| 39 | 67.3 | [Demystifying AI, Understanding Risks...](https://www.purdue.edu/online/artificial-intelligence-micro-credentials/) | Purdue University | 2/3 | 4/6 | 9 | 12 | 8 | 2 | 3 |
+| 40 | 67.0 | [It's Not Just Business](https://www.turing.ac.uk/courses/its-not-just-business-ai-risks-rewards-and-responsibilities) | The Alan Turing Institute | 2/3 | 3/6 | 14 | 10 | 8 | 2 | 3 |
+| 41 | 67.0 | [Trustworthy AI: Managing Bias, Ethics, Accountability](https://www.coursera.org/learn/responsible-ai-and-ethics) | Johns Hopkins | 2/3 | 3/6 | 12 | 10 | 8 | 3 | 4 |
+| 42 | 66.0 | [Generative AI: Governance, Policy, Emerging Regulation](https://www.coursera.org/learn/generative-ai-governance-policy-and-emerging-regulation) | University of Michigan | 2/3 | 3/6 | 12 | 9 | 9 | 3 | 3 |
+| 43 | 64.3 | [Current Issues in Ethics and AI](https://www.coursera.org/learn/current-issues-in-ethics-and-ai) | CU Boulder | 2/3 | 4/6 | 6 | 10 | 9 | 2 | 4 |
+| 44 | 64.0 | [AGI Strategy](https://bluedot.org/courses/agi-strategy) | BlueDot Impact | 2/3 | 3/6 | 12 | 9 | 7 | 2 | 4 |
+| 45 | 61.7 | [Introduction to Generative AI (BUSAI X001)](https://reg-continuinged.osu.edu/search/publicCourseSearchDetails.do?method=load&courseId=1260877) | Ohio State | 2/3 | 2/6 | 10 | 11 | 8 | 2 | 4 |
+| 46 | 56.0 | [Foundation Models and Generative AI (6.S087)](https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024/) | MIT OCW | 1/3 | 3/6 | 14 | 10 | 7 | 2 | 3 |
 
 ## 3. Analysis
 

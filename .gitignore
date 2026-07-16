@@ -15,3 +15,4 @@ release/
 /.vscode
 2_ETL/__pycache__/etl.cpython-312.pyc
 /__pycache__
+/courses_candidates/backups

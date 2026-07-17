@@ -34,7 +34,7 @@ Scoring is reproducible: the script embeds every manual score.
 | 3 | 94.0 | [Responsible AI for Public Sector Legal Professionals](https://innovate-us.org/course/responsible-ai-for-public-sector-legal-professionals/) | InnovateUS | 3/3 | 6/6 | 15 | 13 | 9 | 3 | 4 |
 | 4 | 93.7 | [Responsible AI for Public Organizations](https://innovate-us.org/course/responsible-ai-for-public-organizations/) | InnovateUS | 3/3 | 5/6 | 15 | 15 | 9 | 4 | 4 |
 | 5 | 93.7 | [Responsible AI for Public Professionals](https://innovate-us.org/course/responsible-ai-for-public-professionals/) | InnovateUS | 3/3 | 5/6 | 15 | 15 | 9 | 5 | 3 |
-| 6 | 92.7 | [AI and Digital Transformation in Government](https://www.sbs.ox.ac.uk/programmes/executive-education/online-learning/ai-and-digital-transformation-government) | Oxford Saïd + UNESCO | 3/3 | 5/6 | 15 | 15 | 7 | 5 | 4 |
+| 6 | 92.7 | [AI and Digital Transformation in Government](https://www.sbs.ox.ac.uk/programmes/executive-education/online-learning/ai-and-digital-transformation-government) {{deprecated}} | Oxford Saïd + UNESCO | 3/3 | 5/6 | 15 | 15 | 7 | 5 | 4 |
 | 7 | 91.0 | [Introduction to Artificial Intelligence (UIUC)](https://www.coursera.org/learn/intro-to-artificial-intelligence) | UIUC (Gies) | 3/3 | 6/6 | 12 | 12 | 9 | 4 | 4 |
 | 8 | 89.7 | [AI Foundations for Business Professionals (specialization)](https://www.coursera.org/specializations/ai-foundations-business-professionals) | Oxford Saïd | 3/3 | 5/6 | 12 | 12 | 10 | 5 | 4 |
 | 9 | 88.3 | [Free Online Certificate in AI and Career Empowerment](https://www.rhsmith.umd.edu/programs/executive-education/learning-opportunities-individuals/free-online-certificate-artificial-intelligence-and-career-empowerment) | UMD Smith | 3/3 | 4/6 | 15 | 13 | 9 | 4 | 4 |
